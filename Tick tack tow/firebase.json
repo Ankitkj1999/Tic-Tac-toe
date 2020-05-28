@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "ankit-tic-tac",
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
