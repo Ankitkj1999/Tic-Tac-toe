@@ -1,6 +1,5 @@
 # Tic-Tac-toe
-Tic Tac Toe PWA
-Tic Tac Toe
+Tic Tac Toe 
 ![link](ezgif.com-crop.gif)
 
 
